@@ -1,11 +1,12 @@
 # Linux
 ## Commands in Linux
 
-```
+``` Linux
   ls                  #Shows files and folders 
   cd                  #Change Disrectory
   htop                #Show the process in the server
   top                 #Show the process in the server
+  mkdir dirname       #Create new directory
   screen -S 'name'    #Save new screen with 'name'
   screen -r 'name'    #Reattach screen
   screen -D -R 'name' #Detach and reattach screen
