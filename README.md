@@ -17,5 +17,7 @@
   screen -ls          #List screens 
   screen -X -S [session you want to kill] kill #To kill an attached screen
   R                   #Starts R
+  nano 'name.txt'     #modifi text
+  cat 'name.txt'      # show txt file
 
 ```
